@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Simao\Documents\Audio Projects\Kicad projects\2N3055 AMP\2N3055 AMP.kicad_sch</source>
+    <date>1/10/2022 12:24:31 AM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>2N3055 AMP.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10-47uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>def4fa94-8595-4ec6-9916-5b0dbc3c9b60</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100-220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00a5d269-9e5e-456b-979f-97c2d6eb14c8</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1500uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D18.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dcb82c2-b7f7-4aed-8a2d-0b65055e1f32</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100-500nf</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>888c5086-17db-4d42-8a37-e18a66871aaa</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100-220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d18faca8-41fa-4588-9612-07292c8da18a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100-200pf</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52f5403a-4208-4ab5-9da4-6f0bd543ff7b</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nf</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81098710-9f02-4593-b158-439c7565faeb</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>GND</value>
+      <footprint>Custom Library:M4_Screw_Terminal</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ac16dfe-4a11-42ad-8278-0ae76975f12a</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>IN</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>009dfb9a-5cdd-4236-a325-899bd62c02d3</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>50-60V</value>
+      <footprint>Custom Library:M4_Screw_Terminal</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e537d0de-e6f2-4473-b193-a44b52afbb13</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>OUT</value>
+      <footprint>Custom Library:M4_Screw_Terminal</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6381a253-baa4-4113-88d9-80ed398295f5</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N3055</value>
+      <footprint>Package_TO_SOT_THT:TO-3</footprint>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04d3f920-1e35-416d-a763-3f8c8a7e3a95</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N3055</value>
+      <footprint>Package_TO_SOT_THT:TO-3</footprint>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b3223d4-aff8-490b-b597-d58fb22d6a23</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>BC286</value>
+      <footprint>Package_TO_SOT_THT:TO-39-3</footprint>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4fcff20-5919-4c41-a44f-45242fe9f35f</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>BC286</value>
+      <footprint>Package_TO_SOT_THT:TO-39-3</footprint>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3eeecc36-c67f-4e5f-aba2-f8b2cc97102d</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>BC107</value>
+      <footprint>Package_TO_SOT_THT:TO-18-3</footprint>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72d8ef22-c320-44de-acf8-b81db89e175b</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>BC212</value>
+      <footprint>Package_TO_SOT_THT:TO-92L_Inline_Wide</footprint>
+      <libsource lib="Device" part="Q_PNP_ECB" description="PNP transistor, emitter/collector/base"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>caa58ae9-fcb1-4547-b6a8-274fa7795927</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>BC287</value>
+      <footprint>Package_TO_SOT_THT:TO-39-3</footprint>
+      <libsource lib="Device" part="Q_PNP_ECB" description="PNP transistor, emitter/collector/base"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12558d20-79c8-4bba-bcbc-b0c833c7dc3b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>56-68K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>956dbde9-6925-47d5-b720-0a7ffa5fd98d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>470-560K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3201c761-4be2-46a7-afa2-295b1cfe8161</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1-3K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97c062dc-6e1c-444d-a9c1-bd58e686a78d</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1-3K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9799c89-e114-45dd-9e1c-9d2bba2b5079</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>330-470</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cc29385-c7ed-4c2b-b982-f2b1a223da9a</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>330-470</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d052b93e-a0a1-4d7f-96d6-60dd26c4d46b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>2-3K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7df3e0a9-69da-4439-a85a-5ba2a4c8a1ab</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100-300</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d9e08a2-f341-4d3f-b07e-4665e4973750</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10-20</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2b64a79-ee61-4b4b-afee-324fbedbb620</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>0.3-0.5</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90e3bc9e-54ce-4b32-a28b-7192dc206c1c</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>270-300k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>457d0718-c16e-497d-8642-00747fc94c90</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>0.5-1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af71a448-3835-4246-b209-013d71b27283</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>20-100</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>229ec263-6300-49cd-b207-4495bb476b8c</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>100-300</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08467e7a-305e-41b2-b7d2-89c979af1b6e</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10-20</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba566158-ec99-4fcd-9768-e5668fc46ed6</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>0.3-0.5</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>150c97e0-619e-4e81-b948-ec06111bbb8a</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72ecb723-883d-46d4-8979-c98deaa595ba</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>500</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical</footprint>
+      <libsource lib="Device" part="R_Potentiometer_US" description="Potentiometer, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2N3055 AMP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76f8778f-3071-4484-b1be-f94c5ee526f8</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x01_Male">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BEC">
+      <description>NPN transistor, base/emitter/collector</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BEC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_PNP_ECB">
+      <description>PNP transistor, emitter/collector/base</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PNP_ECB</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_US">
+      <description>Potentiometer, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q7" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q6" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q7" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q5" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(Q4-Pad2)">
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(Q6-Pad1)">
+      <node ref="Q6" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(Q7-Pad2)">
+      <node ref="Q7" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+  </nets>
+</export>

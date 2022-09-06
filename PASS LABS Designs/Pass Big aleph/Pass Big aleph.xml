@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Simao\Documents\Audio Projects\Kicad projects\Aleph Mini\Aleph MINI\Aleph MINI.kicad_sch</source>
+    <date>1/9/2022 12:07:37 AM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Aleph MINI.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D12.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9ef7b6b-9e92-4425-a372-3ea13a03ac0e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D12.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bc45125-fbad-4a40-90d4-592b48f5e444</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D12.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>303665c9-9ecb-44a4-92fd-bb90ee61a32b</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10PF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0eeb8407-4dc3-488e-bd10-2199b8dba5e9</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1NF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3742084-7f30-4404-9623-d1c245359ff8</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>47NF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dcaf4a7-145b-434a-9a16-310c4f1ab476</tstamps>
+    </comp>
+    <comp ref="GND1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Custom Library:M4_Screw_Terminal</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f054547f-18bb-49fc-9aff-91e047769f87</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7fac089-5de4-43a1-bf40-6c9d09b62eb8</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3674b3dc-ce23-4b93-a148-105d7c18ea7b</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1b2161c-371d-46aa-b9c5-0bb9fccb34d2</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75d4bfed-8282-433b-86e5-593a3ad233a9</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c3ace9d-8c14-449d-871c-4729b7eb905b</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b98da07c-6e40-42ab-8217-e4341573851d</tstamps>
+    </comp>
+    <comp ref="IN+1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Wire:SolderWire-1sqmm_1x01_D1.4mm_OD2.7mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eac88b9b-4226-43c7-9238-94c134da0ab1</tstamps>
+    </comp>
+    <comp ref="IN-1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Wire:SolderWire-1sqmm_1x01_D1.4mm_OD2.7mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f184863f-807b-4eb3-ae9e-2a8857f5a82a</tstamps>
+    </comp>
+    <comp ref="IN_RCA1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Wire:SolderWire-1sqmm_1x01_D1.4mm_OD2.7mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f7fbfa1-e923-4853-adfa-6db8e48d4a4f</tstamps>
+    </comp>
+    <comp ref="OUT1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Wire:SolderWire-1sqmm_1x01_D1.4mm_OD2.7mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97f41563-b89f-4467-a029-b22244819e02</tstamps>
+    </comp>
+    <comp ref="OUT_GND1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Wire:SolderWire-1sqmm_1x01_D1.4mm_OD2.7mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f009b9cf-c02d-462f-9e00-2f274e0e4a33</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IRFP9610</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown</footprint>
+      <libsource lib="Device" part="Q_PMOS_GDS" description="P-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14776d8b-d864-4d4a-9fc4-494ffa72d6c7</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>IRFP9610</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown</footprint>
+      <libsource lib="Device" part="Q_PMOS_GDS" description="P-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>665e8d8d-f881-4fd3-9779-be2bd2a23553</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>IRFP9610</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown</footprint>
+      <libsource lib="Device" part="Q_PMOS_GDS" description="P-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25ce8036-cb50-42b0-84ec-1e1618f01376</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>ZTX450</value>
+      <footprint>Package_TO_SOT_THT:TO-92L_Inline_Wide</footprint>
+      <libsource lib="Device" part="Q_NPN_EBC" description="NPN transistor, emitter/base/collector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de65ff5a-3d89-4ce3-9d67-e0ba462a1772</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>ZTX450</value>
+      <footprint>Package_TO_SOT_THT:TO-92L_Inline_Wide</footprint>
+      <libsource lib="Device" part="Q_NPN_EBC" description="NPN transistor, emitter/base/collector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>480358e6-5249-4bb3-a1a3-c3d4b1e5e17b</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>IRFP240</value>
+      <footprint>Package_TO_SOT_THT:TO-247-3_Vertical</footprint>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>137eaa08-15d4-4d5d-98fd-311b21c4b2c1</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>IRFP240</value>
+      <footprint>Package_TO_SOT_THT:TO-247-3_Vertical</footprint>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8b56ecf-6b43-4aa3-9cff-2b6453afecd4</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>IRFP240</value>
+      <footprint>Package_TO_SOT_THT:TO-247-3_Vertical</footprint>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48bc5538-17c5-4c0c-8dd1-7c90ab3b9dcc</tstamps>
+    </comp>
+    <comp ref="Q11">
+      <value>IRFP240</value>
+      <footprint>Package_TO_SOT_THT:TO-247-3_Vertical</footprint>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9ec38f9-a168-41eb-83bb-173a22a384a3</tstamps>
+    </comp>
+    <comp ref="Q12">
+      <value>IRFP240</value>
+      <footprint>Package_TO_SOT_THT:TO-247-3_Vertical</footprint>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>805be442-3a74-434e-8daa-9e0b28afd0e2</tstamps>
+    </comp>
+    <comp ref="Q13">
+      <value>IRFP240</value>
+      <footprint>Package_TO_SOT_THT:TO-247-3_Vertical</footprint>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>517b9453-0eaa-42df-a6ed-5941d209e8d8</tstamps>
+    </comp>
+    <comp ref="R0">
+      <value>3/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6f2707f-c9c9-4cbb-9ba7-d37e52c8a8a4</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55a4262b-18de-4d27-9e1f-b09baed37779</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eefe860e-91ab-4b23-9bd6-ae6923fe0428</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>68.1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9dbfc28d-ec68-4187-8aea-44f4c1a63198</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7c34125-3626-4659-9bf7-fd84ac00d39f</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>4.75K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5c0c946-3fd1-4ec0-98bc-d9eb6e434f63</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>Adjust</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4881e450-9cf8-49ae-9251-f449bc46276c</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06ad5e5f-bd01-4ecb-9268-1e10cafacf18</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ef4885f-0294-4b08-b324-35b34cd92702</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>513f931f-0d1a-4bb9-9c62-62167d15f6f4</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>68.1k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29cc0df5-f34a-4c97-a868-b1be5bee9078</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>781716b6-acc9-4d16-9d8b-a1aa4734cd3e</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>825</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99763d57-b719-4518-b421-bf8db83f8a40</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>47.5K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3f49215-9039-4511-aa39-c7d9dcb454a0</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>1.5K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e48e953-832e-418e-85db-d3f6d221e98e</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>100K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b671c01-a8ce-43a4-877e-171ae7a3117f</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1.5K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5afd226-e37f-49af-9de5-253e7387a095</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>392</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>667e2347-7ca5-4129-b402-40d8a07e3b6e</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>392</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0deba5b-31f9-4ada-abad-fe2c4a048271</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>511f08bc-767c-4075-b076-d4b3648721fe</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd7d974c-6923-45ff-8191-62add5bf1049</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>0.47/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54d34b93-4877-47a7-bc3d-2cdff7301342</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>0.47/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6361d46d-9755-467e-938b-cb049183a736</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>0.47/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5667d96-578e-43a9-8cd9-4eff2eb8f727</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>0.47/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e78917de-095f-4ee2-b967-78bb8378c070</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>870b2ede-7bb0-482d-aae1-d03595990aa2</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be9582cc-4b55-4238-afd5-14f7c8ce81fa</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13203a7f-5bcc-466a-86cc-1f7e1aa41f23</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b17615bc-85dc-44a3-9944-3e19f19a8456</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49fe057d-74d5-4108-9bac-752e8e97cc4f</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>221</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3cc340e-56cb-4c6d-b07f-3da551cd9739</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>.47/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e92400df-d9f5-47a4-b48e-0d162a506f2c</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>.47/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7ece8ac-0bba-4c69-b21b-81f4649d9058</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>.47/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd702c17-7818-4013-a43c-04bfcfd01498</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>.47/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c781bb6-8b90-4e5e-bfef-3bf650345e27</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>.47/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3871043-3cd7-4b31-8bb2-1c85927e463c</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>.47/3W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c6b6e56-35bf-4835-8072-233aecaa8110</tstamps>
+    </comp>
+    <comp ref="SG_GND1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Wire:SolderWire-1sqmm_1x01_D1.4mm_OD2.7mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07b5c53d-6d47-4a8e-bd34-11a369e49cb6</tstamps>
+    </comp>
+    <comp ref="V+1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Custom Library:M4_Screw_Terminal</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4ed4624-9267-42d5-9c5c-bdc98e923357</tstamps>
+    </comp>
+    <comp ref="V-1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Custom Library:M4_Screw_Terminal</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94ebab51-a200-451b-80c5-4a6910538d4b</tstamps>
+    </comp>
+    <comp ref="Z1">
+      <value>9.1V</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>442ffa13-d779-4683-959b-c4220be3da0c</tstamps>
+    </comp>
+    <comp ref="Z2">
+      <value>9.1V</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09cba53c-0241-4841-83c6-0b5e5d55121e</tstamps>
+    </comp>
+    <comp ref="Z3">
+      <value>9.1V</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83a55d9e-d5e8-47fc-a24b-9115b63f0ca1</tstamps>
+    </comp>
+    <comp ref="Z4">
+      <value>9.1V</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d67487e-50a5-4ee2-b55f-9df42e343ab8</tstamps>
+    </comp>
+    <comp ref="Z5">
+      <value>9.1V</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Aleph MINI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>038823db-14a0-43c8-8f05-6db4cf1e9ee9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x01_Male">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GDS">
+      <description>N-MOSFET transistor, gate/drain/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GDS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_EBC">
+      <description>NPN transistor, emitter/base/collector</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_EBC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_PMOS_GDS">
+      <description>P-MOSFET transistor, gate/drain/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PMOS_GDS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/+Gate">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/+Sense">
+      <node ref="Q13" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/-Gate">
+      <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/-Sense">
+      <node ref="Q12" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/Common">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="Q10" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q12" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q8" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="GND1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="OUT_GND1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R0" pin="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="SG_GND1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="Z3" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="OUT1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="Q11" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q13" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q9" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="V+1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Z5" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="Z5" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(IN+1-Pad1)">
+      <node ref="IN+1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="IN_RCA1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(IN-1-Pad1)">
+      <node ref="IN-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="V-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(Q3-Pad3)">
+      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(Q4-Pad2)">
+      <node ref="Q4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q8-Pad1)">
+      <node ref="Q8" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(Q8-Pad3)">
+      <node ref="Q8" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(Q9-Pad1)">
+      <node ref="Q9" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(Q9-Pad3)">
+      <node ref="Q9" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(Q10-Pad1)">
+      <node ref="Q10" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(Q10-Pad3)">
+      <node ref="Q10" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(Q11-Pad1)">
+      <node ref="Q11" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(Q11-Pad3)">
+      <node ref="Q11" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(Q12-Pad1)">
+      <node ref="Q12" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(Q13-Pad1)">
+      <node ref="Q13" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(R0-Pad1)">
+      <node ref="R0" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="Z2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Z4" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="Z1" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(Z1-Pad2)">
+      <node ref="Z1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Z2" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(Z3-Pad2)">
+      <node ref="Z3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Z4" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+  </nets>
+</export>

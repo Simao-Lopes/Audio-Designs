@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Simao\Documents\Audio Projects\Kicad projects\FINAL VERSIONS\Audionote Kit four v2\Audionote Kit four v2.kicad_sch</source>
+    <date>1/31/2022 3:18:35 PM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Audionote Kit four v2.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>560pf</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60e53536-4e08-4bc6-9332-49ea16513c60</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>33uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cdccb39-57eb-42cb-9125-e41482b47d18</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4700uf/16V</value>
+      <footprint>Capacitor_THT:C_Radial_D16.0mm_H31.5mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbd73a27-89be-448b-bca7-2f738f9ceef3</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>820pf</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a31b25f-b1be-4835-85e7-4585319a610e</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uf</value>
+      <footprint>Capacitor_THT:C_Rect_L26.5mm_W6.0mm_P22.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f171b33-0d2e-4fa3-b9ed-7e0f41681abe</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.47uf</value>
+      <footprint>Capacitor_THT:C_Rect_L31.5mm_W9.0mm_P27.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e283800-2764-4bfe-b1d9-be3d155ad82f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uf</value>
+      <footprint>Capacitor_THT:C_Rect_L26.5mm_W6.0mm_P22.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97fa5c24-5469-4f6c-8003-56b28ab01508</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>33uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fb5d3af-ff98-4d39-8391-2c7a1a47e445</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dfce50f-7b17-4a57-b095-ffa976fa2aa2</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ee72b1e-208e-4e1e-9d4c-ead60a1f5b27</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.47uf</value>
+      <footprint>Capacitor_THT:C_Rect_L31.5mm_W9.0mm_P27.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3707b7e8-173d-4b41-94cb-420aead50637</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.47uf</value>
+      <footprint>Capacitor_THT:C_Rect_L31.5mm_W9.0mm_P27.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de718cd7-067c-403a-9393-d3494cd30f47</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>33uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92d5bd70-9bd0-469a-9c80-7073abc652dd</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D25.0mm_P10.00mm_SnapIn</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c487965e-6f72-4192-b637-20e6d5b7118b</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30025bc0-be44-4c4c-b02b-b4d57a023bc9</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8dde0ae-37e4-4701-af67-676b5ca10fbe</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D25.0mm_P10.00mm_SnapIn</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdb9e7a4-3a98-4e13-8732-a9635e8c8fd1</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D25.0mm_P10.00mm_SnapIn</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0f15249-4800-4184-b99a-23e56bb99766</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>560pf</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb469d49-28f4-4b2a-85cd-d79fed952369</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>820pf</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64e706b3-b7f1-493a-9db3-9504f0484c1a</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1uf</value>
+      <footprint>Capacitor_THT:C_Rect_L26.5mm_W6.0mm_P22.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6092a820-15df-4fe7-be30-e55fe48c97c7</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.47uf</value>
+      <footprint>Capacitor_THT:C_Rect_L31.5mm_W9.0mm_P27.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92e01b9a-240c-4403-a146-a5e1e66e7437</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1uf</value>
+      <footprint>Capacitor_THT:C_Rect_L26.5mm_W6.0mm_P22.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10d83540-052b-4133-b0de-bca29c080a06</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>100uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b77414c9-0402-4f5b-89f9-4b96f5555f0f</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>100uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89d99b0b-45d4-45f9-8be9-33a54fc23c96</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>0.47uf</value>
+      <footprint>Capacitor_THT:C_Rect_L31.5mm_W9.0mm_P27.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2709f20-6a19-4e7a-a1b7-15f28201f297</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>0.47uf</value>
+      <footprint>Capacitor_THT:C_Rect_L31.5mm_W9.0mm_P27.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02f15186-3878-4acf-89e0-be55c06d01fc</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>003745f7-f8d1-4007-8231-aad0dc608277</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>220uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>110fd090-15d9-4c22-9557-a3c8ebfc00b7</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>Bridge</value>
+      <footprint>Diode_THT:Diode_Bridge_19.0x3.5x10.0mm_P5.0mm</footprint>
+      <libsource lib="Device" part="D_Bridge_+-AA" description="Diode bridge, +ve/-ve/AC/AC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4ed3ef3-1414-487d-9e17-2779aa9b7e62</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>Bridge</value>
+      <footprint>Diode_THT:Diode_Bridge_19.0x3.5x10.0mm_P5.0mm</footprint>
+      <libsource lib="Device" part="D_Bridge_+-AA" description="Diode bridge, +ve/-ve/AC/AC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eab48040-e5f9-4bcb-8b07-2198c179be04</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>In_Left</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3e48f4d-b970-42d4-a199-f163df1c5594</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>12.6Vac</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c8dcf43-11bc-40e7-86d9-2a681e8f1407</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>0Vac</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7cdf01a-0b2b-4f28-87f9-f03854a098a8</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>235Vac</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fde1f07-96ee-4502-b549-71ac8d2f140d</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>0Vac</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8b7fa26-b8a2-42cb-8a24-df9f1992ae17</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>In_Right</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d174137-b488-4f79-bbcb-b39a5eb7c5e2</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>0Vac </value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77a92a4c-d8fa-4fb9-bf7e-babdedb5fb7e</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>6.3Vac </value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c4c3d0b-fc46-429f-b7d9-a6c658a4fcd6</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>TX1a</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab949492-dd52-4851-9f8b-af49d8fb82b2</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>TX1b</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>917a9fba-d517-48e0-88e0-7a4c16e467ee</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>TX2a</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bcf3d0a-f5b7-4329-a030-fb22b89e0981</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>TX2b</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bafb00d2-5236-4ab7-9688-f16ca69a6584</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>TX2c</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c538243e-139a-452b-8e38-6cc36d6d8801</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>TX1c</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6df5cfdb-9031-4ef1-85e5-7b9309372ada</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4K7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e77af61-783d-490d-96c2-c3cde5eb25d9</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>270K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e74005a-0b15-4c9a-ab3f-64f26764e097</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>6k8</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0874d20-a425-4b34-a7f7-0723e7c49931</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50a8e444-20fc-4c9e-8faf-0cf3b7213ba3</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>47K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ef8d1d3-c02e-412d-b5f9-a12e00be3976</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>47K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d02c2d80-632a-4b9c-af89-428d9810e01a</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1R/2.5W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b4c5dc4-32a9-4c27-a5d5-48ab48757d93</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>2K2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39a5fb66-149e-41e7-bf58-eb5ce0b48a0d</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>2K2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb718fde-b64d-4cc3-b404-7e5f0c9c36ea</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>270K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f1d49eb-04ae-4749-bea4-1afccfc58df7</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>220K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9519cb71-f86b-47cd-b13d-f66d02ecaa2d</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>270K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4251bc11-a802-4984-9aae-c0eaee34ac78</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>22K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ea270ea-5d0a-41b8-bc8b-f23a28b1836d</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb551f8e-73af-4ac8-ae89-906bc2304f4a</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3269769-4a72-444d-933f-0c12bc6a34d5</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>47K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcaf9650-095c-4adf-9657-75df53e085ef</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>47K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2361146-dcd3-4761-ae8d-7595aa9e5556</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>2K2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e4eb8a4-629b-4450-87c4-878e06565927</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>2K2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4b7897a-2551-4c7b-a8c6-a26291fa7386</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>270K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66d4561a-a40f-4735-8a41-90c45299a351</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>270K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0467886b-49f7-4c0b-ae8f-2bf16fc1db6d</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>4K7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>549422da-40d7-4959-8f78-4aa60cf5fb35</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>4K7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcb30146-f343-4a4f-8e6f-f86d03048cef</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07321e19-d61c-48c5-83a2-d1694310db55</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e913f4c-92e4-4dc7-9e20-400a06787fb3</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>100R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01389412-6af7-4b16-b3a5-733e17793030</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>100R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c7a3c30-4c29-4c75-bb39-6c5eee3c4101</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>47R</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a86d426-ee00-4afb-aaae-03f0d87b5c80</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>470K</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e5f62b3-35a6-49d4-901c-5d76af06ebbe</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0c555b2-568a-4500-89dc-95a4af8a42b8</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>4K7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e931d94-75d7-4476-821e-1b5772c01f82</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>270K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf596f05-2c07-4c69-928f-4e8fbb714f93</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>6k8</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0150fa82-48b2-4e17-9b27-f71e2b571250</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>100R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad10d68f-b995-46dd-84a0-111e795bede6</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>47K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe838a99-2ba2-4fb0-adf8-4c9031452988</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>47K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>147af35a-bf1b-4c74-b51b-96c1d9dcec89</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>2K2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>123fc559-6f68-4e96-acb2-12bd8e629c66</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>2K2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e21cb3b-dcf3-4047-b567-bc7c7990a026</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>270K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8852752c-da20-4fbf-a5f9-a6f32b828a7f</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>220K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f0de837-933c-415d-848d-94e9fcbfac22</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>270K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c3ac719-2f46-4275-b08c-3afd34737571</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>22K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e56874f-9cfc-4678-8bcf-1ff1ac81e2db</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7b100c6-3232-479f-acfa-6f0aab065a81</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1ae1e19-3ed9-477f-820b-362278e6646a</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>47K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3469c683-a7c7-4777-b185-acf504a5ef14</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>47K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0974c47b-4dcf-473a-9eea-8ed6d098cdbe</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>270K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>804225b2-627b-40ae-b713-1e1c8f0c35bf</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>270K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf953e8a-59ac-45c0-a85a-09ed5e706e95</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>4K7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45df6193-7270-46f0-b46b-ba9319544713</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>4K7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54ddf5bd-5baf-43d7-b5f1-649a6cfa077e</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ee5427c-eda1-4775-8032-984a1c26cb0d</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68d17d0e-2574-4f8c-b58d-a9ee5a3aed3b</tstamps>
+    </comp>
+    <comp ref="R55">
+      <value>100R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8336a471-c40b-4ee8-87b1-4a4730830fbe</tstamps>
+    </comp>
+    <comp ref="R56">
+      <value>100R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94a536c9-4df3-45da-8ed0-ba55e3c1d451</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>100K</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer_Dual_Separate" description="Dual potentiometer, separate units"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86996ef9-3647-41bf-9718-2a5af34709b4 449448a6-0d92-4ee5-8a5c-8d817d86bb89</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ECC83</value>
+      <footprint>Valve:Valve_Noval_P</footprint>
+      <datasheet>http://www.r-type.org/pdfs/ecc83.pdf</datasheet>
+      <libsource lib="Valve" part="ECC83" description="double triode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78d085a5-c3fc-425f-84dd-abbb97b59cb5 90207e9d-650a-4c45-b7d5-e506cc85537d 1f3003e6-dce5-420f-906b-3f1e92b67249</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>6SN7</value>
+      <footprint>Valve:Valve_Octal</footprint>
+      <datasheet> </datasheet>
+      <libsource lib="" part="6SN7_1" description="double triode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b2af3c4-2fc4-4d7d-8242-edf197485090 5018443a-402e-4dab-8cd7-e5197b6dad91 29a80a1e-eca2-4168-b8e7-2fd228c4f72e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>6V6</value>
+      <footprint>Valve:Valve_Octal</footprint>
+      <datasheet> </datasheet>
+      <libsource lib="Tubes" part="6V6" description="pentode, 25W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5afe6a00-da1d-4c70-84ba-7059ac950e80 490d14f9-fc33-4c89-b77b-cce8e860d683</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>6V6</value>
+      <footprint>Valve:Valve_Octal</footprint>
+      <datasheet> </datasheet>
+      <libsource lib="" part="6V6_1" description="pentode, 25W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3f42e6c-d030-40e0-aa88-1b63d5c4a684 57b35c55-c022-4df0-aa15-16030b6648c6</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>ECC83</value>
+      <footprint>Valve:Valve_Noval_P</footprint>
+      <datasheet>http://www.r-type.org/pdfs/ecc83.pdf</datasheet>
+      <libsource lib="Valve" part="ECC83" description="double triode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83de8393-5ce8-4763-8b73-1cc93b442260 f301a2d5-1b43-4711-87c0-066c21d93205 0ebc1000-5cc4-4159-a76f-136a88a1e27a</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>6SN7</value>
+      <footprint>Valve:Valve_Octal</footprint>
+      <datasheet> </datasheet>
+      <libsource lib="Tubes" part="6SN7" description="double triode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6df7568-fb9b-4777-933f-c8247c4a6c49 c6b3c6e4-4d54-4705-86c2-0e7c627b252e 97888a14-d05c-4460-825c-9919b3dfce3c</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>6V6</value>
+      <footprint>Valve:Valve_Octal</footprint>
+      <datasheet> </datasheet>
+      <libsource lib="" part="6V6_1" description="pentode, 25W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b53b5681-3e9e-4c09-b26f-7621c395e0e4 09639660-9b2a-4715-8f7d-56088112920f</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>6V6</value>
+      <footprint>Valve:Valve_Octal</footprint>
+      <datasheet> </datasheet>
+      <libsource lib="" part="6V6_1" description="pentode, 25W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Audionote Kit four v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>380f8b28-317e-4bd9-82d4-cdf875c595f4 34af55ff-f064-42d7-875c-438bf7a9ecfd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="6SN7_1">
+      <description>double triode</description>
+      <docs> </docs>
+      <footprints>
+        <fp>VALVE*NOVAL*P*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">6SN7_1</field>
+        <field name="Footprint">Valve:Octal</field>
+        <field name="Datasheet"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="A" type="output"/>
+        <pin num="3" name="K" type="bidirectional"/>
+        <pin num="4" name="G" type="input"/>
+        <pin num="5" name="A" type="output"/>
+        <pin num="6" name="K" type="bidirectional"/>
+        <pin num="7" name="F" type="power_in"/>
+        <pin num="8" name="F" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="6V6_1">
+      <description>pentode, 25W</description>
+      <docs> </docs>
+      <footprints>
+        <fp>VALVE*OCTAL*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">6V6</field>
+        <field name="Footprint">Valve:Valve_Octal</field>
+        <field name="Datasheet"> </field>
+      </fields>
+      <pins>
+        <pin num="2" name="H" type="power_in"/>
+        <pin num="3" name="P" type="output"/>
+        <pin num="4" name="Gs" type="input"/>
+        <pin num="5" name="G" type="input"/>
+        <pin num="7" name="H" type="power_in"/>
+        <pin num="8" name="K" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Bridge_+-AA">
+      <description>Diode bridge, +ve/-ve/AC/AC</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>D*Bridge*</fp>
+        <fp>D*Rectifier*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Bridge_+-AA</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Dual_Separate">
+      <description>Dual potentiometer, separate units</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Dual_Separate</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Tubes" part="6SN7">
+      <description>double triode</description>
+      <docs> </docs>
+      <footprints>
+        <fp>VALVE*NOVAL*P*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">6SN7</field>
+        <field name="Footprint">Valve:Octal</field>
+        <field name="Datasheet"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="A" type="output"/>
+        <pin num="3" name="K" type="bidirectional"/>
+        <pin num="4" name="G" type="input"/>
+        <pin num="5" name="A" type="output"/>
+        <pin num="6" name="K" type="bidirectional"/>
+        <pin num="7" name="F" type="power_in"/>
+        <pin num="8" name="F" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Tubes" part="6V6">
+      <description>pentode, 25W</description>
+      <docs> </docs>
+      <footprints>
+        <fp>VALVE*OCTAL*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">6V6</field>
+        <field name="Footprint">Valve:Valve_Octal</field>
+        <field name="Datasheet"> </field>
+      </fields>
+      <pins>
+        <pin num="2" name="H" type="power_in"/>
+        <pin num="3" name="P" type="output"/>
+        <pin num="4" name="Gs" type="input"/>
+        <pin num="5" name="G" type="input"/>
+        <pin num="7" name="H" type="power_in"/>
+        <pin num="8" name="K" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Valve" part="ECC83">
+      <description>double triode</description>
+      <docs>http://www.r-type.org/pdfs/ecc83.pdf</docs>
+      <footprints>
+        <fp>VALVE*NOVAL*P*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ECC83</field>
+        <field name="Footprint">Valve:Valve_Noval_P</field>
+        <field name="Datasheet">http://www.r-type.org/pdfs/ecc83.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="output"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="K" type="bidirectional"/>
+        <pin num="4" name="F1" type="power_in"/>
+        <pin num="5" name="F1" type="power_in"/>
+        <pin num="6" name="A" type="output"/>
+        <pin num="7" name="G" type="input"/>
+        <pin num="8" name="K" type="bidirectional"/>
+        <pin num="9" name="F2" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Tubes">
+      <uri>C:/Users/Simao/Documents/KiCad/6.0/symbols/Tubes.kicad_sym</uri>
+    </library>
+    <library logical="Valve">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Valve.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+V1">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R55" pin="2" pintype="passive"/>
+      <node ref="R56" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="+V2">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="+V3">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="+V4">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="F1a">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="F" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="H" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="H" pintype="power_in"/>
+      <node ref="U6" pin="7" pinfunction="F" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="H" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="H" pintype="power_in"/>
+    </net>
+    <net code="6" name="F1b">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="F" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="H" pintype="power_in"/>
+      <node ref="U4" pin="7" pinfunction="H" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="F" pintype="power_in"/>
+      <node ref="U7" pin="7" pinfunction="H" pintype="power_in"/>
+      <node ref="U8" pin="7" pinfunction="H" pintype="power_in"/>
+    </net>
+    <net code="7" name="F2+">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="F" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="F" pintype="power_in"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="R50" pin="2" pintype="passive"/>
+      <node ref="R53" pin="1" pintype="passive"/>
+      <node ref="R54" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="F" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="F" pintype="power_in"/>
+    </net>
+    <net code="9" name="LFb">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="LPa">
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="P" pintype="output"/>
+    </net>
+    <net code="11" name="LPb">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="P" pintype="output"/>
+    </net>
+    <net code="12" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="A" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="A" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="K" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="K" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="A" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="A" pintype="output"/>
+    </net>
+    <net code="24" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="K" pintype="power_in"/>
+    </net>
+    <net code="27" name="Net-(C16-Pad1)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="K" pintype="power_in"/>
+    </net>
+    <net code="28" name="Net-(C19-Pad2)">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(C21-Pad2)">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="A" pintype="output"/>
+    </net>
+    <net code="30" name="Net-(C22-Pad2)">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(C23-Pad1)">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="A" pintype="output"/>
+    </net>
+    <net code="32" name="Net-(C23-Pad2)">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(C24-Pad2)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(C26-Pad1)">
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="U6" pin="6" pinfunction="K" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="Net-(C27-Pad1)">
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="K" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="Net-(C28-Pad1)">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="A" pintype="output"/>
+    </net>
+    <net code="37" name="Net-(C28-Pad2)">
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+      <node ref="R52" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(C29-Pad1)">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="A" pintype="output"/>
+    </net>
+    <net code="39" name="Net-(C29-Pad2)">
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(C31-Pad1)">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="R53" pin="2" pintype="passive"/>
+      <node ref="U7" pin="8" pinfunction="K" pintype="power_in"/>
+    </net>
+    <net code="41" name="Net-(C32-Pad1)">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="R54" pin="2" pintype="passive"/>
+      <node ref="U8" pin="8" pinfunction="K" pintype="power_in"/>
+    </net>
+    <net code="42" name="Net-(D1-Pad3)">
+      <node ref="D1" pin="3" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D1-Pad4)">
+      <node ref="D1" pin="4" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D2-Pad3)">
+      <node ref="D2" pin="3" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D2-Pad4)">
+      <node ref="D2" pin="4" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(J6-Pad2)">
+      <node ref="J6" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="RV1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="K" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="K" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(R22-Pad2)">
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(R23-Pad1)">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(R26-Pad1)">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="Gs" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(R27-Pad2)">
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="Gs" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(R31-Pad1)">
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(R31-Pad2)">
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(R37-Pad2)">
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="K" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="Net-(R38-Pad1)">
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="K" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="Net-(R39-Pad1)">
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="63" name="Net-(R41-Pad1)">
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(R51-Pad2)">
+      <node ref="R51" pin="2" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="65" name="Net-(R52-Pad1)">
+      <node ref="R52" pin="1" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="66" name="Net-(R55-Pad1)">
+      <node ref="R55" pin="1" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="Gs" pintype="input"/>
+    </net>
+    <net code="67" name="Net-(R56-Pad2)">
+      <node ref="R56" pin="2" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="Gs" pintype="input"/>
+    </net>
+    <net code="68" name="RFb">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="RPa">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="P" pintype="output"/>
+    </net>
+    <net code="70" name="RPb">
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="P" pintype="output"/>
+    </net>
+    <net code="71" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="_" pintype="power_in+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U5-Pad9)">
+      <node ref="U5" pin="9" pinfunction="_" pintype="power_in+no_connect"/>
+    </net>
+  </nets>
+</export>

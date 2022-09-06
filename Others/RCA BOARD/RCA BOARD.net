@@ -1,0 +1,81 @@
+(export 
+  (version D) 
+  (design 
+    (source "C:\\Users\\Simao\\Documents\\Audio Projects\\Kicad projects\\RCA BOOARD\\RCA BOOARD.sch") 
+    (date "10/24/2021 6:15:44 PM") 
+    (tool "Eeschema (5.1.10)-1") 
+    (sheet 
+      (number 1) 
+      (name /) 
+      (tstamps /) 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source "RCA BOARD.sch") 
+        (comment 
+          (number 1) 
+          (value "")) 
+        (comment 
+          (number 2) 
+          (value "")) 
+        (comment 
+          (number 3) 
+          (value "")) 
+        (comment 
+          (number 4) 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref NT1) 
+      (value Net-Tie_2) 
+      (footprint NetTie:NetTie-2_SMD_Pad0.5mm) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part Net-Tie_2) 
+        (description "Net tie, 2 pins")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6175A765))) 
+  (libparts 
+    (libpart 
+      (lib Device) 
+      (part Net-Tie_2) 
+      (description "Net tie, 2 pins") 
+      (docs ~) 
+      (footprints 
+        (fp Net*Tie*)) 
+      (fields 
+        (field 
+          (name Reference) NT) 
+        (field 
+          (name Value) Net-Tie_2)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name 1) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name 2) 
+          (type passive))))) 
+  (libraries 
+    (library 
+      (logical Device) 
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Device.lib"))) 
+  (nets 
+    (net 
+      (code 1) 
+      (name GND) 
+      (node 
+        (ref NT1) 
+        (pin 2))) 
+    (net 
+      (code 2) 
+      (name LINE) 
+      (node 
+        (ref NT1) 
+        (pin 1)))))

@@ -1,0 +1,78 @@
+* Partlist from file: PSUMEGA.lay6" / 7/8/2022 11:57:58 AM
+*
+* No	Name	Value	Layer	Comment PART# 
+*
+1	0V	62261-1	Top (THIS WILL HAVE 3 FASTON MALE IN ONE)
+
+	https://www.mouser.pr/ProductDetail/TE-Connectivity-AMP/62261-1?qs=sGAEpiMZZMvlX3nhDDO4AGvjTor0M9KvVO%2FWo5ktnEA%3D
+2	0V	62261-1	Top
+	https://www.mouser.pr/ProductDetail/TE-Connectivity-AMP/62261-1?qs=sGAEpiMZZMvlX3nhDDO4AGvjTor0M9KvVO%2FWo5ktnEA%3D
+3	AC1	62261-1	Top
+	https://www.mouser.pr/ProductDetail/TE-Connectivity-AMP/62261-1?qs=sGAEpiMZZMvlX3nhDDO4AGvjTor0M9KvVO%2FWo5ktnEA%3D
+4	AC2	62261-1	Top
+	https://www.mouser.pr/ProductDetail/TE-Connectivity-AMP/62261-1?qs=sGAEpiMZZMvlX3nhDDO4AGvjTor0M9KvVO%2FWo5ktnEA%3D
+
+5	BR1	GBPC5006-G	Top	50A 600V AC SEMICONDUCTOR  Mouser #:750-GBPC5006-G HEAT SINK Mouser #:532-6222B /  Mouser #:
+532-6322BG OTRA OPCION
+
+6	C1	0.1uF 250V	Top	 Mfr. #: ECQ-E6104JF  Mouser PART# 667-ECQ-E6104JF 630 VDC 
+7	C2	0.1uF 250V	Top	 Mfr. #: ECQ-E6104JF  Mouser PART# 667-ECQ-E6104JF 630 VDC
+8	C3	0.1uF 250V	Top	 Mfr. #: ECQ-E6104JF  Mouser PART# 667-ECQ-E6104JF 630 VDC
+9	C4	0.1uF 250V	Top	 Mfr. #: ECQ-E6104JF  Mouser PART# 667-ECQ-E6104JF 630 VDC
+
+10	C5	22000uF 100V	Top	382LX223M100B092VS Mouser PART# 598-382LX223M100B092 5 pin Diameter: 50 mm Life: 3000 Hour
+11	C6	22000uF 100V	Top	382LX223M100B092VS Mouser PART# 598-382LX223M100B092 5 pin Diameter: 50 mm Life: 3000 Hour
+12	C7	22000uF 100V	Top	382LX223M100B092VS Mouser PART# 598-382LX223M100B092 5 pin Diameter: 50 mm Life: 3000 Hour
+13	C8	22000uF 100V	Top	382LX223M100B092VS Mouser PART# 598-382LX223M100B092 5 pin Diameter: 50 mm Life: 3000 Hour
+ 
+14	C9	0.1uF 250V	Top	Mfr. #: ECQ-E6104JF  Mouser PART# 667-ECQ-E6104JF 630 VDC  
+15	C10	0.1uF 250V	Top	Mfr. #: ECQ-E6104JF  Mouser PART# 667-ECQ-E6104JF 630 VDC
+ 
+16	C11	0.47uF 	Top	MKS4F034703G00KSSD Mouser PART# 505-MKS4.47/250/10 
+17	C12	0.1uF 	Top	MKP4G031003G00KSSD Mouser PART# 505-MKS4.47/250/10
+ 
+18	CONN1	P-820N	Top	https://www.taydaelectronics.com/connectors-sockets/pcb-terminal-with-screw.html
+19	CONN2	P-820N	Top	https://www.taydaelectronics.com/connectors-sockets/pcb-terminal-with-screw.html
+20	CONN3	P-820N	Top	https://www.taydaelectronics.com/connectors-sockets/pcb-terminal-with-screw.html
+21	CONN4	P-820N	Top	https://www.taydaelectronics.com/connectors-sockets/pcb-terminal-with-screw.html
+22	CONN5	P-820N	Top	https://www.taydaelectronics.com/connectors-sockets/pcb-terminal-with-screw.html
+23	CONN6	P-820N	Top	https://www.taydaelectronics.com/connectors-sockets/pcb-terminal-with-screw.html
+24	CONN7	P-820N	Top	https://www.taydaelectronics.com/connectors-sockets/pcb-terminal-with-screw.html
+25	CONN8	P-820N	Top	https://www.taydaelectronics.com/connectors-sockets/pcb-terminal-with-screw.html
+
+26	F1	FUSE HOLDER	Top	693-0031.8231 Mouser Fuse Holder OGD FUSEHOLDER 5X20/6.3X32 10A 250V FUSE COVER  Mouser #:693-0853.0917  
+27	F2	FUSE HOLDER	Top	693-0031.8231 Mouser Fuse Holder OGD FUSEHOLDER 5X20/6.3X32 10A 250V FUSE COVER  Mouser #:693-0853.0917  
+28	F3	FUSE HOLDER	Top	693-0031.8231 Mouser Fuse Holder OGD FUSEHOLDER 5X20/6.3X32 10A 250V FUSE COVER  Mouser #:693-0853.0917  
+29	F4	FUSE HOLDER	Top	693-0031.8231 Mouser Fuse Holder OGD FUSEHOLDER 5X20/6.3X32 10A 250V FUSE COVER  Mouser #:693-0853.0917  
+30	F5	FUSE HOLDER	Top	693-0031.8231 Mouser Fuse Holder OGD FUSEHOLDER 5X20/6.3X32 10A 250V FUSE COVER  Mouser #:693-0853.0917  
+31	F6	FUSE HOLDER	Top	693-0031.8231 Mouser Fuse Holder OGD FUSEHOLDER 5X20/6.3X32 10A 250V FUSE COVER  Mouser #:693-0853.0917  
+
+32	FASTON6	CONN	Top	2376595-2 Mouser OR USE THIS ONE  Mouser #:693-0031.8211 
+33	FASTON1	CONN	Top	2376595-2 Mouser OR USE THIS ONE  Mouser #:693-0031.8211
+34	FASTON2	CONN	Top	2376595-2 Mouser OR USE THIS ONE  Mouser #:693-0031.8211
+35	FASTON3	CONN	Top	2376595-2 Mouser OR USE THIS ONE  Mouser #:693-0031.8211
+36	FASTON4	CONN	Top	2376595-2 Mouser OR USE THIS ONE  Mouser #:693-0031.8211
+37	FASTON5	CONN	Top	2376595-2 Mouser OR USE THIS ONE  Mouser #:693-0031.8211
+ 
+38	LED1	Red Diffused	Top	Manufacturer Part #: WP7113LID LED you can chose any color you like LED PITCH DISTANCE 2.54 MM dia 6.35
+39	LED2	Red Diffused	Top	Manufacturer Part #: WP7113LID LED you can chose any color you like LED PITCH DISTANCE 2.54 MM dia 6.35
+40	LED3	Red Diffused	Top	Manufacturer Part #: WP7113LID LED you can chose any color you like LED PITCH DISTANCE 2.54 MM dia 6.35
+41	LED4	Red Diffused	Top	Manufacturer Part #: WP7113LID LED you can chose any color you like LED PITCH DISTANCE 2.54 MM dia 6.35
+42	LED5	Red Diffused	Top	Manufacturer Part #: WP7113LID LED you can chose any color you like LED PITCH DISTANCE 2.54 MM dia 6.35
+43	LED6	Red Diffused	Top	Manufacturer Part #: WP7113LID LED you can chose any color you like LED PITCH DISTANCE 2.54 MM dia 6.35
+
+
+
+
+THIS NEED TO BE CALCULATED ACCORDING TO VOLTAGE USE EXAMPLE: 65V AC X 1.414 = 91.923 WITH THE CAPS +/- 3V EXTRA ABOUT 95V DC 
+voltage maximo es 65V AC PUEDES USARLO CON MENOS VOLTAJE 20,30,40,50,60, 65V AC ES EL MAXIMO 
+ 
+44	R1	33K 3-5W Top	
+45	R2	33K 3-5W Top	
+46	R3	22K	 Top	
+47	R4	22K	 Top	
+48	R5	22K	 Top	
+49	R6	22K	 Top	
+50	R7	22K	 Top	
+51	R8	22K	 Top	
+52	R9	150R     Top

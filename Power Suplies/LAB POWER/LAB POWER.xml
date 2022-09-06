@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Simao\Documents\Audio Projects\Kicad projects\FINAL VERSIONS\LAB POWER\LAB POWER.kicad_sch</source>
+    <date>1/24/2022 3:51:13 PM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LAB POWER.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1000uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D16.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5f28390-96bd-4624-888b-eee669ee58ce</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1000uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D16.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>450b88f6-3f2a-4430-a6a3-8881fb124769</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1000uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D16.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0c38338-9171-429a-b895-495e1b6a34e4</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1000uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D16.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>653923ac-7d05-4f44-b27d-c4e617692f96</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1000uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D16.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4c3c509-1d64-4217-a183-579660bf0aad</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P2.50mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26b2fd92-53e8-45f6-9f71-1e6b3b10183c</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1000uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D16.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75d34245-d4dc-4528-8a52-96d24be049e6</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1000uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D16.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d01bea62-6113-41a6-ad82-ec535ee24111</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100pf</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ba9488d-dd55-4f7e-9152-078008f04fed</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P2.50mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c30eed64-5566-4440-b4f0-58a6fb0a2e3e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>IN</value>
+      <footprint>Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f05fb45e-61c2-4a2b-9184-8f3e8a97f8c4</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>OUTPUT</value>
+      <footprint>Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dd6c197-7584-4239-acef-40075658bd25</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Q_CONN</value>
+      <footprint>Connector_Molex:Molex_Sabre_43160-0106_1x06_P7.49mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8aaef40-4fa4-44c1-8ecd-e677f09b65a6</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>390R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed6fe133-376d-4373-a2a8-b598ebc0c295</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>120R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56a4b58e-b3af-4945-a60c-e28e4c9e40e9</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da0b7813-d931-4ea1-8003-1fd98ab0f39e</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>0R1/5W</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44831ebf-e0e7-4d38-b412-cd4724a432bc</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>0R1/5W</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6164d023-36d3-4477-bce9-f31fa29e0219</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>0R1/5W</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c75cce66-a1e6-4205-a1c4-0299956ab146</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0R1/5W</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc05e2d3-12db-43ef-a510-7924a4568f2d</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>0R47/5W</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf55780a-a238-4536-82a9-31f52393a6f6</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>0R47/5W</value>
+      <footprint>Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P27.94mm</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68a6b94f-b2e3-416a-9a53-64cc97a89eb1</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>5k</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4c34850-94a7-45fd-a2bb-fa9fffe2374e</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>500R</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04517c26-3723-4ee8-a8f3-e3d68bb96385</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM723_DIP14</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm723.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LM723_DIP14" description="Linear Regulator (adjustable), DIP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LAB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e65b62be-e01b-4688-a999-1d1be370c4ae</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM723_DIP14">
+      <description>Linear Regulator (adjustable), DIP-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm723.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM723_DIP14</field>
+        <field name="Footprint">Package_DIP:DIP-14_W7.62mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm723.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="ILIM" type="input"/>
+        <pin num="3" name="CSEN" type="input"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="VREF" type="power_out"/>
+        <pin num="7" name="V-" type="power_in"/>
+        <pin num="8" name="NC" type="no_connect"/>
+        <pin num="9" name="VZ" type="input"/>
+        <pin num="10" name="Vout" type="power_out"/>
+        <pin num="11" name="VC" type="power_in"/>
+        <pin num="12" name="V+" type="power_in"/>
+        <pin num="13" name="FC" type="input"/>
+        <pin num="14" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/+">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="2" name="/A_Adj">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="ILIM" pintype="input"/>
+    </net>
+    <net code="3" name="/Q1B">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="Vout" pintype="power_out"/>
+    </net>
+    <net code="4" name="/Q1C">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="VC" pintype="power_in"/>
+      <node ref="U1" pin="12" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="5" name="/Q2E">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/Q3E">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/Q4E">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/Q5E">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/V_Adj">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VREF" pintype="power_out"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="11" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="FC" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(RV2-Pad2)">
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="CSEN" pintype="input"/>
+    </net>
+    <net code="16" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="17" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="VZ" pintype="input+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

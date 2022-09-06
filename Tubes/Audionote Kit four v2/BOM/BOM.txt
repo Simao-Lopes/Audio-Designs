@@ -1,0 +1,54 @@
+MATERIALE X AUDIONOTE CLONE stereo
+
+RESISTENZE :
+100ohm  3 watt........4pz
+560ohm  3watt.........4pz.
+2k2 ohm 3watt..........4pz
+4k7 ohm 1watt..........6pz
+270k ohm 1 watt ......8pz
+47k ohm  1watt.........8pz
+1k ohm  1watt...........4pz
+22k ohm 1 watt.........2pz
+100 ohm 1 watt.........2pz
+220k ohm 1watt........2pz
+2k2 ohm 1watt..........4pz
+6k8 ohm 1watt..........2pz
+47 ohm 5watt............1pz
+1k ohm 5watt.............1pz
+4,7 ohm 5 watt...........1pz
+470k ohm....2watt......1pz
+
+CONDENSATORI :
+
+220uf 450v elettrolitico snap-in diametro 30mm...........3pz.
+33uF 400v elettrolitico passo 7,5 diametro 16mm.......6pz
+4700uF 25v elettrolitico  passo 7,5 diametro 16mm....2pz
+100uF 25v elettrolitico diametro 8mm...........................4pz
+220uF 50v elettrolitico diametro 12,5mm......................4pz
+560pF ceramico 500v.......................................................2pz
+820pF ceramico 500v.......................................................2pz
+100nF 400v. polipropilene.....passo 15mm wima.....4pz
+0,47uF 400v polipropilene passo 22,5mm wima  .6pz
+
+ZOCCOLI:
+TIPO NOVAL BELTON PCB...................2PZ
+TIPO OCTAL CERAMICO PCB..............6PZ
+
+VALVOLE:
+ECC83.....................................2PZ
+6SN7........................................2PZ
+6V6...........................................4PZ
+
+VARIE:
+PONTE DIODI 200V 15AMPER .....quadrato pin in linea...1PZ
+PONTE DIODI 1000V. 10AMPER....quadrato pin in linea.. 1PZ
+MORSETTI X PCB 2 POSTI ...PASSO 5MM....2PZ
+
+TRASFORMATORE....ALIMENTAZIONE........1pz.
+PRIMARIO 230V
+SECONDARIO  235V......250mA
+SECONDARIO 6,3V   CON PRESA CENTRALE 6-Amper
+SECONDARIO 12,6V  1-Amper
+
+TRASFORMATORI USCITA 
+PUSH-PULL PRIMARIO 8K SECONDARIO 4-8 OHM 25watt  2pz.

@@ -1,0 +1,55 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L power:GND #PWR0101
+U 1 1 617593ED
+P 4700 4800
+F 0 "#PWR0101" H 4700 4550 50  0001 C CNN
+F 1 "GND" H 4705 4627 50  0000 C CNN
+F 2 "" H 4700 4800 50  0001 C CNN
+F 3 "" H 4700 4800 50  0001 C CNN
+	1    4700 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:LINE #PWR0102
+U 1 1 61759829
+P 3850 4500
+F 0 "#PWR0102" H 3850 4350 50  0001 C CNN
+F 1 "LINE" H 3865 4673 50  0000 C CNN
+F 2 "" H 3850 4500 50  0001 C CNN
+F 3 "" H 3850 4500 50  0001 C CNN
+	1    3850 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4700 4800 4700 4500
+Wire Wire Line
+	4700 4500 4350 4500
+$Comp
+L Device:Net-Tie_2 NT1
+U 1 1 6175A765
+P 4250 4500
+F 0 "NT1" H 4250 4681 50  0000 C CNN
+F 1 "Net-Tie_2" H 4250 4590 50  0000 C CNN
+F 2 "NetTie:NetTie-2_SMD_Pad0.5mm" H 4250 4500 50  0001 C CNN
+F 3 "~" H 4250 4500 50  0001 C CNN
+	1    4250 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4150 4500 3850 4500
+$EndSCHEMATC
